@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio code</strong>
+  💼 Ferramentas: <strong>VS CODE</strong>
 </p>
 
 <p align="left">
