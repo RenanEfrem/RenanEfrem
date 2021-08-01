@@ -2,7 +2,6 @@
 
 <p align="left"> 
   Hello, my name is Renan I am a <strong>Front-end Developer</strong> and <strong>Back-end Developer</strong>.<br>
-  I am studying <strong>information security</strong>
 </p>
 
 <p align="left">
