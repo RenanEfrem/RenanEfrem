@@ -15,9 +15,7 @@
 <p align="left">
  Aqui vai uma mensagem para entrar em contato com você:  ⤵️
 </p>
-<p align="left"> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanEfrem&show_icons=true&theme=dark)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanEfrem&show_icons=true&theme=dark)
 
 <p align="left">
   <a href="mailto: renan.efrem56@gmail.com" alt="Gmail">
