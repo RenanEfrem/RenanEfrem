@@ -15,8 +15,6 @@
 <p align="left">
  Aqui vai uma mensagem para entrar em contato com você:  ⤵️
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanEfrem&show_icons=true&theme=dark)
-
 <p align="left">
   <a href="mailto: renan.efrem56@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=renan.efrem56@gmail.com" /></a>
