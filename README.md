@@ -5,15 +5,18 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JAVA, HTML, CSS, JS</strong>
+ Linguagens: <strong>JAVA, HTML, CSS, JS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS CODE</strong>
+ Ferramentas: <strong>VS CODE</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você:  ⤵️
+ Aqui vai uma mensagem para entrar em contato com você:  ⤵️
+</p>
+<p align="left"> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanEfrem&show_icons=true&theme=dark)
 </p>
 
 <p align="left">
