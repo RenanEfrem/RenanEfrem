@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-</p>
 ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -41,12 +39,7 @@ export default function App() {
     );
 }
 ```
-<p align="left">
-  <a href="mailto: renan.efrem56@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=renan.efrem56@gmail.com" /></a>
-  
-  <a href="https://api.whatsapp.com/send?phone=5515991039477" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515991039477"/></a>
-
- 
-</p>  
+<a href="https://github.com/renanefrem/portfolio>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renanEfrem&repo=Portfolio&show_icons=true&line_height=27&title_color=8257e5&text_color=8a919a&icon_color=8257e5&bg_color=121214
+" alt="Portfolio" />
+</a>
