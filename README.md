@@ -10,18 +10,36 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-me = SoftwareEngineer()
-me.say_hi()
+```javascript
+import React,{ useState }from 'react';
+
+export default function App() {
+  const [input, setInput] = useState("");
+  const [data, setData] = useState([]);
+
+  async function handleSearch() {
+    try {
+      const response = await fetch(`https://api.github.com/users/${input}/repos`);
+      const value = await response.json();
+      setData(value);
+      console.log(data);
+    }catch(error) {
+      alert(error);
+    }
+    return (
+        <>
+            <TextInput
+              multiline={false}
+              autoCorrect={false}
+              onChangeText={setInput}
+              placeholder="Username GITHUB"
+            />
+            <BgSearch onPress={() => {
+            handleSearch()
+            }}>
+        </>
+    );
+}
 ```
 <p align="left">
   <a href="mailto: renan.efrem56@gmail.com" alt="Gmail">
