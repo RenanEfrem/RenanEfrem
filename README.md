@@ -4,9 +4,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ```javascript
 import React,{ useState }from 'react';
@@ -39,8 +36,8 @@ export default function App() {
     );
 }
 ```
-<strong>Highlight Projects</strong>
-<div style="display: flex; flex-direction: column;">
+<strong>🏆 Highlight Projects</strong>
+<div style="display: flex; flex-direction: column; margin-right: 5px;">
   <a href="https://github.com/renanefrem/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renanefrem&repo=portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio" />
 </a>
