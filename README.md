@@ -1,20 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<p align="left"> 
-  Hello, my name is Renan I am a <strong>Front-end Developer</strong> and <strong>Back-end Developer</strong>.<br>
-</p>
 </p>
 ```javascript
-  const dados = {
-    linguagens: {
-        html,
-        css,
-        react,
-    },
-    ferramentas: {
-        VSCode
-    }
-
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 <p align="left">
