@@ -7,6 +7,7 @@
 
 ```javascript
 import React,{ useState }from 'react';
+import { BgSearch,TextInput } from "./styles/global";
 
 export default function App() {
   const [input, setInput] = useState("");
