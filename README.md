@@ -31,7 +31,7 @@ export default function App() {
               placeholder="Username GITHUB"
             />
             <BgSearch onPress={() => {
-            handleSearch()
+              handleSearch()
             }}>
         </>
     );
