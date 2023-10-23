@@ -5,38 +5,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-```javascript
-import React,{ useState }from 'react';
-import { BgSearch,TextInput } from "./styles/global";
-
-export default function App() {
-  const [input, setInput] = useState("");
-  const [data, setData] = useState([]);
-
-  async function handleSearch() {
-    try {
-      const response = await fetch(`https://api.github.com/users/${input}/repos`);
-      const value = await response.json();
-      setData(value);
-      console.log(data);
-    }catch(error) {
-      alert(error);
-    }
-    return (
-        <>
-            <TextInput
-              multiline={false}
-              autoCorrect={false}
-              onChangeText={setInput}
-              placeholder="Username GITHUB"
-            />
-            <BgSearch onPress={() => {
-              handleSearch()
-            }}>
-        </>
-    );
-}
-```
 <strong>🏆 Highlight Projects</strong>
 <div style="display: flex; flex-direction: column; margin-right: 5px;">
   <a href="https://github.com/renanefrem/portfolio">
